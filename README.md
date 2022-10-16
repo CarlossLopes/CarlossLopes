@@ -1,5 +1,5 @@
 ### Olá! Eu sou Carloes Lopes 👋
 
-- 🔭 I’m currently working on ...
+- 🔭Atualmente estou trabalhando em 7 Dias de Convenção Java
 - 🌱 Estudando: Spring Boot 
 - 😄 Pronouns: Ele/Dele
