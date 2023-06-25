@@ -1,6 +1,6 @@
 ### Olá! Eu sou Carloes Lopes 👋
 
-- 🔭Atualmente estou trabalhando em 7 Dias de Convenção Java
+- 🔭Atualmente estou criando aplicações Java
 - 🌱 Estudando: Spring Boot 
 - 😄 Pronouns: Ele/Dele
 
